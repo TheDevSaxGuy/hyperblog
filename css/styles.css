@@ -44,3 +44,9 @@ body{
     text-align: center;
     padding: 0.5em;
 }
+#me{
+    text-align: center;
+}
+#post img{
+    height: 150px;
+}
